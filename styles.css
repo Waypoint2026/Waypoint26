@@ -31,10 +31,10 @@ body {
 }
 
 .logo-mark {
-  font-size: 44px;
-  letter-spacing: 4px;
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
   margin-bottom: 24px;
-  color: var(--cream);
 }
 
 .eyebrow {
